@@ -8,13 +8,20 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 
-## 💡 About Me
+### 💡 About Me
 
 - 🔭 I’m currently building real-world AI/ML & Python projects
+    
 - 🌱 I’m learning **Machine Learning, Deep Learning, GitHub, and Deployment**
+    
 - 💬 Ask me about **Python, ML, GitHub, LinkedIn, and College Life**
+    
 - ⚡ Fun fact: I once debugged a bug just by dreaming about it 😅
-
+   
+   
+   
+    
+   
 ---
 
 ## 📫 Connect With Me
