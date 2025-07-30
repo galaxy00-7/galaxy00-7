@@ -1,4 +1,21 @@
 <!-- Profile Views -->
+<h2 align="center">✨ Profile Visitors ✨</h2>
+
+<p align="center">
+  <a href="https://github.com/galaxy00-7">
+    <img src="https://komarev.com/ghpvc/?username=galaxy00-7&style=flat-square&color=blueviolet" alt="Profile Views" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&pause=1000&color=9F79EE&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Feel+free+to+check+my+projects+%F0%9F%91%80" alt="Typing SVG" />
+</p>
+
+
+
+
+
+
 <h1 align="center">👋 Hi, I'm Raman Kumar</h1>
 <h3 align="center">A passionate CSE-AIML student & Python enthusiast from India 🇮🇳</h3>
 
