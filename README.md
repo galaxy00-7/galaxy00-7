@@ -1,31 +1,8 @@
 <!-- Profile Views -->
 <h2 align="center">✨ Profile Visitors ✨</h2>
 
-<p align="center">
-  <a href="https://github.com/galaxy00-7">
-    <img src="https://komarev.com/ghpvc/?username=galaxy00-7&style=flat-square&color=blueviolet" alt="Profile Views" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&pause=1000&color=9F79EE&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Feel+free+to+check+my+projects+%F0%9F%91%80" alt="Typing SVG" />
-</p>
-
-
-
-
-
-
 <h1 align="center">👋 Hi, I'm Raman Kumar</h1>
-<h3 align="center">A passionate CSE-AIML student & Python enthusiast from India 🇮🇳</h3>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="400" alt="coding" />
-</p>
-&nbsp;&nbsp;
-
-<div align="center">
-  
 ## 💡 About Me
 
 🔭 I’m currently building real-world **AI/ML & Python** projects  
@@ -86,12 +63,6 @@
 
 &nbsp;&nbsp;
 <div align="center">
-<h2>🏆 GitHub Trophies</h2>
-
-![](https://github-profile-trophy.vercel.app/?username=galaxy00-7&theme=radical&no-bg=false&margin-w=4)
-</div>
-
-
 
 &nbsp;&nbsp;
 <div align="center">
@@ -115,13 +86,7 @@
 </div>
 
 &nbsp;&nbsp;
-<div align="center">
-<h2>🐍 My Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-</div>
 
-&nbsp;&nbsp;
 <div align="center">
 <h2>✍️ Dev Quote</h2>
 
