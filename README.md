@@ -3,6 +3,7 @@
 
 <h1 align="center">👋 Hi, I'm Raman Kumar</h1>
 
+<div align="center">  
 ## 💡 About Me
 
 🔭 I’m currently building real-world **AI/ML & Python** projects  
@@ -41,23 +42,68 @@
 <div align="center">
 <h2>🧰 Languages & Tools</h2>
 
+<!-- 🚀 Programming Languages -->
+<h3>🚀 Programming Languages</h3>
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
    &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+   &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+   &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+   &nbsp;&nbsp;
+</p>
+
+<!-- 🌐 Web Development -->
+<h3>🌐 Web Development</h3>
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
    &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
    &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
    &nbsp;&nbsp;
+</p>
+
+<!-- 🗄️ Databases -->
+<h3>🗄️ Databases</h3>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
+   &nbsp;&nbsp;
+</p>
+
+<!-- 🛠️ Tools -->
+<h3>🛠️ Tools</h3>
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
    &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40">
    &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
    &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40">
+   &nbsp;&nbsp;
+</p>
+
+<!-- 🤖 AI / ML -->
+<h3>🤖 AI / ML</h3>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
+   &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
+   &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
+   &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+   &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40" height="40"/>
+   &nbsp;&nbsp;
 </p>
 </div>
+
+
+
 
 
 
